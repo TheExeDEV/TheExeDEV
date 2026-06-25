@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&width=238&lines=github.com%2FTheExe" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&width=238&lines=github.com%2FTheExeDEV" alt="Typing SVG"/>
 </p>
 <p align="center">
   <img src="https://count.getloli.com/@GitHub_TheExe?name=GitHub_TheExeDEV&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1"/>
